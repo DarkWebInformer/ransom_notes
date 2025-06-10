@@ -2,6 +2,6 @@
 
 This is a collection of various ransomware notes from the past to the present.
 
-Follow us on Twitter: [@Threatlabz](https://twitter.com/Threatlabz)
+Follow on X/Twitter: [@Threatlabz](https://x.com/DarkWebInformer)
 
-Blog: https://www.zscaler.com/blogs/security-research
+Platform: https://www.darkwebinformer.com
