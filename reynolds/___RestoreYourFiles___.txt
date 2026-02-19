@@ -1,0 +1,22 @@
+All your important files have been encrypted!
+
+Contact us for price and get decryption software.
+
+You have 3 days to contact us for negotiation.
+If you do not contact us within three days, we will attack you again and leak your files.
+
+1) Contact our qtox.
+session download address: https://qtox.github.io
+Our poison ID:
+
+6F7831EBB5EEB933275BD6F4B4AA888918E9B7E40454A477CADDE7EE02461153D3B77AE50798
+
+* Note that this server is available via Tor browser only
+
+Follow the instructions to open the link:
+1. Type the addres "https://www.torproject.org" in your Internet browser. It opens the Tor site.
+2. Press "Download Tor", then press "Download Tor Browser Bundle", install and run it.
+3. Now you have Tor browser. In the Tor Browser open :
+
+http://bs2tlg32pfjwmclm22cyngqmoo24cdlhfxzbruwrdaxumisfeory32qd.onion
+
