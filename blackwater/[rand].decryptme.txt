@@ -1,0 +1,33 @@
+BLACKWATER
+
+Your systems are encrypted.
+After the attack, your company data has a new extension.
+
+We stole confidential data from your infrastructure.
+
+BLOG:
+-If you don't contact us, information about the attack and your details will be published on the blog.
+
+DATA: 
+- We have personal data of employees, financial reports and other files from your network.
+
+CONSEQUENCES OF THE LEAK:
+-Financial losses include system restoration costs, fines, downtime, and asset value reduction. These costs exceed expectations and have long-term consequences for the business.
+-Reputational damage includes loss of trust and media headlines. Reputation restoration requires more resources than system restoration.
+
+ALARM:
+1. DO NOT modify the files under any circumstances, otherwise the decryption program will not be able to recover your data.
+2. DO NOT use third-party (other) software, as it may damage or modify the files.
+3. To recover the files, you will need the decryption key or our decryption program.
+4. The authorities will not help you, but will only increase your data risks.
+
+CONTACT US:
+Download tor browser -----> Go to domain  -----> Enter credentials
+
+You can contact us only via our website in the Tor browser.
+-- Credentials 
+
+Extension: Df7c2qriCd 
+Domain: 6t5g73fbzdjuhvvovuvuhc4mdgefrwn75szssx4ftqzxyuacdij47pad.onion 
+login: [snip] 
+password: [snip]
