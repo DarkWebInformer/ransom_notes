@@ -1,0 +1,94 @@
+=======================================================================
+                 YOUR NETWORK HAS BEEN COMPROMISED
+=======================================================================
+   __    _              _    __          _____       
+  / /   /_\    /\/\    /_\  / _\  /\  /\/__   \/\ /\ 
+ / /   //_\\  /    \  //_\\ \ \  / /_/ /  / /\/ / \ \
+/ /___/  _  \/ /\/\ \/  _  \_\ \/ __  /  / /  \ \_/ /
+\____/\_/ \_/\/    \/\_/ \_/\__/\/ /_/   \/    \___/ 
+
+
+What happened?
+------------------------------------------
+Your corporate network has been fully compromised. All critical files across your systems have been encrypted with a military-grade algorithm. Backups connected to the network have been encrypted too.
+
+
+Additionally, a significant volume of sensitive data has been exfiltrated, including:
+  - Financial records and contracts;
+  - Employee personal data (PII);
+  - Client databases;
+  - Internal communications;
+  - And much more that you wouldn't want to be public.
+
+Regulatory consequences:
+------------------------------------------
+Your data is subject to multiple regulatory frameworks. A confirmed breach triggers:
+
+  [GDPR — EU/EEA]
+  - Mandatory notification to authorities within 72 hours
+  - Notification to ALL affected individuals
+  - Fines up to 4% of annual global turnover or €20,000,000
+  - Regulatory investigation, public disclosure, class-action lawsuits from clients and employees
+
+  [CCPA/CPRA — California, USA]
+  - Statutory damages of $100–$750 PER consumer PER incident
+  - With thousands of records, this adds up to millions
+  - California AG investigation and civil penalties up to $7,500 per intentional violation
+  - Private right of action — your customers can sue directly
+
+  [HIPAA — if applicable]
+  - If ANY health-related data was in your systems:
+  - Fines from $100 to $50,000 PER record, up to $1.5M/year per violation category
+  - Criminal penalties including imprisonment
+  - HHS public "Wall of Shame" — permanent reputational record
+
+The math is simple:
+  Our price << regulatory fines + lawsuits + reputation loss
+
+Resolve this privately. No regulators, no lawsuits, no headlines. Nobody has to know.
+If you refuse to negotiate, we will notify every regulatory authority whose jurisdiction covers your data — and your clients whose data we hold.
+
+
+What NOT to do:
+------------------------------------------
+- DO NOT contact law enforcement.
+  They will seize your equipment for months and return it with "sorry, we can't help you with that". They cannot decrypt your files. They cannot prevent the data leak. They WILL forbid you from negotiating, leaving you with nothing.
+- DO NOT attempt to restore from backups without verifying them first. Corrupted restores will cause permanent data loss.
+- DO NOT MODIFY encrypted files. This will make recovery impossible.
+- DO NOT hire a "recovery firm". Most of them simply contact us on your behalf and charge you a premium on top of our price.
+
+
+What SHOULD you do:
+------------------------------------------
+1. Read this note completely.
+2. Contact us using the information below.
+3. You will receive proof that we have your data and can decrypt.
+4. We agree on terms. You pay. You get everything back.
+5. We delete your data from our servers. Incident stays private.
+
+This is a business transaction. We have a reputation to maintain. Every client who has paid has received full decryption and data deletion. 
+
+
+Contact:
+------------------------------------------
+Your own chat with us. Use 'Tor Browser' to access it:
+  - URL:          7jhbjbyb3zp5ziqqn6kikfrgyjapd4wusseuu753ddknr37apqrxnpid.onion
+  - Access token: [snip]
+
+Here is our blog with files of victims who refused to pay:
+  - URL: lamashtux5j74mcm7lwwgn5yrvuwtrpxjoyendif3v3hrztjesfoyayd.onion
+
+If law enforcement has advised you not to negotiate, but you understand they cannot actually help you — use the backup channel. Our actual additional contacts you can find on our blog in section 'CONTACTS'.
+We are available 24/7.
+
+
+Deadline:
+------------------------------------------
+You have 3 days to make contact. After that:
+  - The price doubles.
+  - After 10 days, your data will be published on our leak site.
+
+This timer started when your files were encrypted, not when you read this note.
+The clock is ticking.
+=======================================================================
+dtaeXsxNY
